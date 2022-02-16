@@ -4,8 +4,6 @@ date: 2022-02-15
 thumbnail: "https://raw.githubusercontent.com/TkkrLab/minitel-hackaday/master/telic-1-hackaday.webp"
 ---
 
-https://github.com/TkkrLab/minitel-hackaday
-
 # Hack-a-day reader for Minitel terminals
 
 ![Hackaday reader for Minitel](https://raw.githubusercontent.com/TkkrLab/minitel-hackaday/master/telic-1-hackaday.webp)
